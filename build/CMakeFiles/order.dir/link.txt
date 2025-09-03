@@ -1,2 +1,0 @@
-/usr/bin/ar qc liborder.a CMakeFiles/order.dir/src/order.cpp.o CMakeFiles/order.dir/src/order_book.cpp.o CMakeFiles/order.dir/src/price_level.cpp.o CMakeFiles/order.dir/src/trade.cpp.o
-/usr/bin/ranlib liborder.a

@@ -1,7 +1,0 @@
-/import/kamen/2/z3278107/Desktop/order/build/CMakeFiles/catch2_main.dir
-/import/kamen/2/z3278107/Desktop/order/build/CMakeFiles/order.dir
-/import/kamen/2/z3278107/Desktop/order/build/CMakeFiles/client.dir
-/import/kamen/2/z3278107/Desktop/order/build/CMakeFiles/order_book_test_exe.dir
-/import/kamen/2/z3278107/Desktop/order/build/CMakeFiles/test.dir
-/import/kamen/2/z3278107/Desktop/order/build/CMakeFiles/edit_cache.dir
-/import/kamen/2/z3278107/Desktop/order/build/CMakeFiles/rebuild_cache.dir

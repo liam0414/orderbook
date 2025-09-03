@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/order_book_test_exe.dir/tests/order_book.test.cpp.o -o order_book_test_exe  libcatch2_main.a liborder.a libcatch2_main.a 
