@@ -19,7 +19,7 @@ make
 ## Running
 ```bash
 # Run demo
-./orderbook_client
+./client
 
 # Run tests
 ctest --verbose
