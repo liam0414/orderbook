@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/import/kamen/2/z3278107/Desktop/order/build",
+  "command": "/usr/bin/c++  -I/import/kamen/2/z3278107/Desktop/order/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/catch2_main.dir/lib/catch2_main.cpp.o -c /import/kamen/2/z3278107/Desktop/order/lib/catch2_main.cpp",
+  "file": "/import/kamen/2/z3278107/Desktop/order/lib/catch2_main.cpp"
+},
+{
+  "directory": "/import/kamen/2/z3278107/Desktop/order/build",
+  "command": "/usr/bin/c++  -I/import/kamen/2/z3278107/Desktop/order/include -I/import/kamen/2/z3278107/Desktop/order/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/order.dir/src/order.cpp.o -c /import/kamen/2/z3278107/Desktop/order/src/order.cpp",
+  "file": "/import/kamen/2/z3278107/Desktop/order/src/order.cpp"
+},
+{
+  "directory": "/import/kamen/2/z3278107/Desktop/order/build",
+  "command": "/usr/bin/c++  -I/import/kamen/2/z3278107/Desktop/order/include -I/import/kamen/2/z3278107/Desktop/order/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/order.dir/src/order_book.cpp.o -c /import/kamen/2/z3278107/Desktop/order/src/order_book.cpp",
+  "file": "/import/kamen/2/z3278107/Desktop/order/src/order_book.cpp"
+},
+{
+  "directory": "/import/kamen/2/z3278107/Desktop/order/build",
+  "command": "/usr/bin/c++  -I/import/kamen/2/z3278107/Desktop/order/include -I/import/kamen/2/z3278107/Desktop/order/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/order.dir/src/price_level.cpp.o -c /import/kamen/2/z3278107/Desktop/order/src/price_level.cpp",
+  "file": "/import/kamen/2/z3278107/Desktop/order/src/price_level.cpp"
+},
+{
+  "directory": "/import/kamen/2/z3278107/Desktop/order/build",
+  "command": "/usr/bin/c++  -I/import/kamen/2/z3278107/Desktop/order/include -I/import/kamen/2/z3278107/Desktop/order/lib -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/order.dir/src/trade.cpp.o -c /import/kamen/2/z3278107/Desktop/order/src/trade.cpp",
+  "file": "/import/kamen/2/z3278107/Desktop/order/src/trade.cpp"
+},
+{
+  "directory": "/import/kamen/2/z3278107/Desktop/order/build",
+  "command": "/usr/bin/c++  -I/import/kamen/2/z3278107/Desktop/order/lib -I/import/kamen/2/z3278107/Desktop/order/include -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/client.dir/src/client.cpp.o -c /import/kamen/2/z3278107/Desktop/order/src/client.cpp",
+  "file": "/import/kamen/2/z3278107/Desktop/order/src/client.cpp"
+},
+{
+  "directory": "/import/kamen/2/z3278107/Desktop/order/build",
+  "command": "/usr/bin/c++  -I/import/kamen/2/z3278107/Desktop/order/lib -I/import/kamen/2/z3278107/Desktop/order/include -Wall -Wextra -Werror -pedantic-errors -Wconversion -Wsign-conversion -Wdouble-promotion -Wcast-align -Wformat=2 -Wuninitialized -Wnull-dereference -Wnon-virtual-dtor -Woverloaded-virtual -Wdeprecated-copy-dtor -Wold-style-cast -Wzero-as-null-pointer-constant -Wsuggest-override -fstack-protector-strong -std=c++20 -o CMakeFiles/order_book_test_exe.dir/tests/order_book.test.cpp.o -c /import/kamen/2/z3278107/Desktop/order/tests/order_book.test.cpp",
+  "file": "/import/kamen/2/z3278107/Desktop/order/tests/order_book.test.cpp"
+}
+]
