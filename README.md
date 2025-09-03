@@ -6,8 +6,9 @@ A C++ implementation of a financial order book with price-time priority matching
 - Price-time priority matching algorithm
 - Support for limit and market orders
 - Thread-safe operations
-- Comprehensive test suite
-- Real-time market data queries
+
+## Known Issue
+- Concurrency
 
 ## Building
 ```bash
